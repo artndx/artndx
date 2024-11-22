@@ -3,6 +3,7 @@
 - [Поисковый сервер](https://github.com/artndx/search-server)
 - [Транспортный справочник](https://github.com/artndx/transport-catalogue)
 - [Электронная таблица](https://github.com/artndx/-QT-)
+- [Игровой сервер](https://github.com/artndx/game_server)
 
 <!--
 **artndx/artndx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
