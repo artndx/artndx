@@ -13,14 +13,28 @@
 
 <h3>Стэк</h3>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+###
+[![C++](https://img.shields.io/badge/C%2B%2B-005697?style=for-the-badge&logo=C%2B%2B&labelColor=005697)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![CMake](https://img.shields.io/badge/CMake-%23722B37?style=for-the-badge&logo=CMake&labelColor=722b37)](https://en.wikipedia.org/wiki/CMake)
+[![Conan](https://img.shields.io/badge/Conan-6699cb?style=for-the-badge&logo=conan&labelColor=white)](https://conan.io/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&labelColor=white)](https://en.wikipedia.org/wiki/Docker_(software))
+[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&labelColor=white)](https://en.wikipedia.org/wiki/Git)
 
-<h3>Все мои проекты</h3>
+###
+[![Boost](https://img.shields.io/badge/Boost-f7901e?style=for-the-badge&logo=Boost&labelColor=white)](https://www.boost.org/)
+[![Catch2](https://img.shields.io/badge/Catch2-%23A25C25?style=for-the-badge&logo=c&logoColor=white)](https://github.com/catchorg/Catch2)
+[![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)](https://www.qt.io/)
+
+###
+[![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=Grafana&labelColor=white)](https://en.wikipedia.org/wiki/Grafana)
+[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=Prometheus&labelColor=white)](https://en.wikipedia.org/wiki/Prometheus_(monitoring_system))
+[![Flamegraph](https://img.shields.io/badge/Flamegraph-%23FF7F50?style=for-the-badge&logo=flamegraph&labelColor=white)](https://github.com/brendangregg/Flamegraph)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=PostgreSQL&labelColor=white)](https://en.wikipedia.org/wiki/PostgreSQL)
+
+###
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&labelColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+
+<h3>Мои проекты</h3>
 
 - [Поисковый сервер](https://github.com/artndx/search-server)
 - [Транспортный справочник](https://github.com/artndx/transport-catalogue)
