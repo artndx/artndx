@@ -9,7 +9,7 @@
 
 <h3>Контакты</h3>
 
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/arturjkeee) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:artur.stepanyan.03@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/artndx) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:artur.stepanyan.03@yandex.ru)
 
 <h3>Стэк</h3>
 
